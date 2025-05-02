@@ -1,0 +1,24 @@
+Hello Vedansh, it's nice to meet you! I'm glad to hear that you are a content writer and create various types of content. I can certainly help you with creating a program for palindrome numbers.
+
+A palindrome number is a number that remains the same when its digits are reversed. For example, 121, 1331, and 1551 are all palindrome numbers.
+
+Here is a simple program in Python that checks if a given number is a palindrome:
+```python
+num = int(input("Enter a number: "))
+original_num = num
+
+# Reverse the number
+reversed_num = 0
+while num > 0:
+    reversed_num = reversed_num * 10 + (num % 10)
+    num = num // 10
+
+# Check if the original number and reversed number are the same
+if original_num == reversed_num:
+    print(original_num, "is a palindrome number.")
+else:
+    print(original_num, "is not a palindrome number.")
+```
+In this program, the user is asked to enter a number. The number is then reversed by extracting its digits one by one and adding them to a new number. Finally, the original number and the reversed number are compared to check if they are the same. If they are, then the number is a palindrome. Otherwise, it's not.
+
+I hope this helps! Let me know if you have any questions or if there's anything else I can assist you with.

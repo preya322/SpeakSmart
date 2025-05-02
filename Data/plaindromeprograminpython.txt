@@ -1,0 +1,17 @@
+Hello Vedansh, it's nice to meet you! I'm here to help you with any questions or issues you have.
+
+Regarding your request for a palindrome program in Python, here's a simple way to check if a given word or phrase is a palindrome:
+```python
+def is_palindrome(word):
+    return word == word[::-1]
+
+# Test the function
+word = "racecar"
+if is_palindrome(word):
+    print(f"{word} is a palindrome")
+else:
+    print(f"{word} is not a palindrome")
+```
+In this program, the `is_palindrome` function takes a string `word` as input and returns `True` if the word is the same forwards and backwards (i.e., a palindrome), and `False` otherwise. The slicing notation `[::-1]` is used to reverse the string.
+
+You can modify this program to suit your needs, such as by adding user input or checking for palindromic phrases. Let me know if you have any questions!

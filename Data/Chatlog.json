@@ -1,0 +1,58 @@
+[
+    {
+        "role": "user",
+        "content": "How are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm functioning optimally, thank you for asking!"
+    },
+    {
+        "role": "user",
+        "content": "WHat is the time?"
+    },
+    {
+        "role": "assistant",
+        "content": "The time is 09:09:36."
+    },
+    {
+        "role": "user",
+        "content": "What is the stock price of Apple"
+    },
+    {
+        "role": "assistant",
+        "content": "As of my knowledge cutoff, the current stock price of Apple (AAPL) is not available in real-time. However, I can suggest some popular financial websites where you can find the most up-to-date information on Apple's stock price, such as Yahoo Finance, Google Finance, or Bloomberg."
+    },
+    {
+        "role": "user",
+        "content": "how are you?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm functioning optimally, thank you for asking!"
+    },
+    {
+        "role": "user",
+        "content": "tech a pak ka."
+    },
+    {
+        "role": "assistant",
+        "content": "I didn't quite understand that. Could you please rephrase or ask in English?"
+    },
+    {
+        "role": "user",
+        "content": "tech a pak ka."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but I still didn't understand that. It seems like it might be in Hindi, but I'm not familiar with the phrase \"tech a pak ka\". Could you please translate or ask in English?"
+    },
+    {
+        "role": "user",
+        "content": "jo."
+    },
+    {
+        "role": "assistant",
+        "content": "I apologize, but I'm not sure what you mean by \"jo\". Could you please provide more context or ask a question in English?"
+    }
+]
