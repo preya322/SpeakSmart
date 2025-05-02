@@ -110,8 +110,8 @@ Through smart AI classification, Alera processes multiple voice commands simulta
 - 🤖 Improved AI conversational memory
 
 ## 👨‍💻 Team Members
-- Vedansh Rathod
 - Preya Patel
+- Vedansh Rathod
 - Astha Prajapati
 - Nidar Prajapati
 
