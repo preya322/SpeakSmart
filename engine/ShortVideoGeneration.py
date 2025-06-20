@@ -13,8 +13,8 @@ import google.generativeai as genai
 from engine.TextToSpeech import TextToSpeech
 
 # Configure API keys
-HF_TOKEN = "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"
-GENAI_KEY = "AIzaSyByGyBAFczgCUGsOaXv_vWdXsxYZ7ylnsg"
+HF_TOKEN = "place your hugging face API key here"
+GENAI_KEY = "place your google gemini key here"
 IMAGE_MODEL = "stabilityai/stable-diffusion-3.5-large-turbo"
 TEXT_MODEL = "gemini-1.5-flash-latest"
 
