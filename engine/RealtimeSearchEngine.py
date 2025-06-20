@@ -13,7 +13,7 @@ Username = "Vedansh"
 # Assistantname = env_vars.get("Assistantname")
 Assistantname = "Alera"
 # GropAPIKey = env_vars.get("GropAPIKey")
-GroqAPIKey = "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"
+GroqAPIKey = "place your GroqAPIKey here"
 
 # Ensure GroqAPIKey is set
 if not GroqAPIKey:
